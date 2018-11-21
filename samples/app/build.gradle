@@ -1,6 +1,6 @@
 buildscript {
     ext.plugin_version = '0.6.0'
-    ext.android_tools_version = '3.2.1'
+    ext.android_tools_version = '3.1.2'
 
     repositories {
         google()
